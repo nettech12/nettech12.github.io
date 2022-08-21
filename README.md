@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm ADITYA</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 60%;
-}
-</style>
-<img src="https://cdn.dirdelivr.ml/img/IMG_20220819_204109.png" alt="Paris" class="center">
+<img src="https://cdn.dirdelivr.ml/img/IMG_20220819_204109.png" alt="Paris" class="center" style="display: block;margin-left: auto;margin-right: auto;width: 60%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nettech12&label=Profile%20views&color=0e75b6&style=flat" alt="nettech12" /> </p>
 
 - 📝 I regularly write articles on [https://adityaprofile.ml](https://adityaprofile.ml)
